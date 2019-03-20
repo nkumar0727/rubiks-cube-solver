@@ -1,0 +1,28 @@
+{
+  "name": "rubikscube",
+  "version": "1.0.0",
+  "description": "Rubik's cube visualizer and solver.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkumar0727/rubiks-cube-solver.git"
+  },
+  "keywords": [
+    "rubiks",
+    "cube",
+    "three.js"
+  ],
+  "author": "Nikhil Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkumar0727/rubiks-cube-solver/issues"
+  },
+  "homepage": "https://github.com/nkumar0727/rubiks-cube-solver#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2",
+    "three": "^0.102.1"
+  }
+}
