@@ -1,0 +1,31 @@
+Cube Movements
+    1) Get Jest working correctly so that I can test cube movements
+    2) Write out testing data for cube movement tests
+    3) Write out cube movement tests
+    4) Fix cube movements such that tests pass
+
+UI Cube Movements
+    1) Provide extnesible UI for cube movements
+        + reset (solved cube)
+        + all basic movements 
+        + configure initial state (nice have)
+    2) Give some textual representation of cube for now
+    3) Might be able to use simple canvas to do basic 2d rendering
+
+Solving Cube
+    0) Research solving techniques and pick one
+    1) Translate algorithm to js solver
+    2) Test repeatedly with many cube configurations
+    3) Figure out a way to test rubiks cube solvability
+
+Rendering Cube
+    0) Familiarize self w/ what can be done in ThreeJS
+    1) Figure out how to structure a rubiks cube in ThreeJS
+    2) Create rubiks cube structure in ThreeJS
+    3) Figure out way to map internal cube data representation w/ how the cube
+    should be rendered
+    4) Figure out how to create transformation when doing cube movement 
+    5) Modify UI such that the state, rendering, and transformation work fine
+
+Read this paper if you actually want to know some of the math behind the rubiks
+cube: http://www.logicalpoetry.com/rubik/math_joyner.pdf
