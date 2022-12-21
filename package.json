@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/nkumar0727/rubiks-cube-solver#readme",
   "devDependencies": {
-    "mocha": "^6.0.2",
+    "mocha": "^6.2.3",
     "three": "^0.137.0"
   }
 }
